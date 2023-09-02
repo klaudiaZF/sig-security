@@ -10,7 +10,6 @@ assignees: 'the-tatanka'
 ## Security Tooling Support Request
 
 ### Tool
-
 <!-- Please mark your tool with an [x]:** -->
 
 - [ ] KICS
@@ -20,5 +19,4 @@ assignees: 'the-tatanka'
 - [ ] Veracode (initial setup, GitHub integration)
 
 ### Issue Description
-
 <!-- Please describe the issue you're experiencing with the security tool. Provide as much detail as possible, including any error messages, logs, steps to reproduce, or screenshots. -->
