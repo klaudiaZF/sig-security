@@ -9,6 +9,7 @@ This is the Special Interest Group for Security (SIG-Security) within the Eclips
 - Evaluate and improve security features in Tractus-X projects
 - Define security guidelines and baseline requirements
 - Provide a forum for discussing and resolving security-related issues
+- Provide security tooling for developers to enhance the security of their contributions
 
 ## Direct Involvement for Specific Security Topics
 
