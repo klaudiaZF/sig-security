@@ -19,4 +19,4 @@ assignees: 'the-tatanka'
 - [ ] Veracode (initial setup, GitHub integration)
 
 ### Issue Description
-<!-- Please describe the issue you're experiencing with the security tool. Provide as much detail as possible, including any error messages, logs, steps to reproduce, or screenshots. -->
+<!-- Please describe the issue you're experiencing with the security tool. Provide as much detail as possible, including workflow run, any error messages, logs, steps to reproduce, or screenshots. -->
