@@ -3,7 +3,7 @@ name: Security Assessment Request
 about: Request a security assessment for Eclipse Tractus-X
 title: "[Security Assessment] SUBJECT_HERE"
 labels: 'security, assessment'
-assignees: 'the-tatanka'
+assignees: 'scherersebastian'
 
 ---
 
