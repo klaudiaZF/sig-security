@@ -22,7 +22,7 @@ For certain security-related issues and pull requests, such as Security Code Rev
 
 ## Contacts
 
-- **Sebastian Scherer**: [@the-tatanka](https://github.com/the-tatanka)
+- **Sebastian Scherer**: [@scherersebastian](https://github.com/scherersebastian)
 
 ## Resources
 
