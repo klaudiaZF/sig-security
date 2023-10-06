@@ -243,4 +243,25 @@ jobs:
 
 ### Dependabot
 
-...
+In order to automatically monitor dependencies for known vulnerabilities, incorporating Dependabot into your GitHub workflow is recommended.
+
+For configuration within GitHub, refer to the appended image illustrating the settings that must be adjusted within the GitHub settings tab.
+
+![GitHub Dependabot Settings](assets/dependabot-settings.png)
+
+Notably, highlighted buttons should visibly show _"Disable"_ to ensure correct configuration. Additionally, while the lowest button should also be disabled (not applicable in this example repo due to the absence of code), **enabling it allows the specification of a Dependabot config that aligns with the repo setup, addressing the declaration of registries to be scanned for dependencies.** Click _"Enable"_ to open a basic `dependabot.yml` configuration file in the `.github` directory of your repository.
+
+A basic example of a `dependabot.yml` file, demonstrating configurations for `Docker` and `npm` dependencies, is shown below:
+
+```yml
+version: 2
+updates:
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+```
