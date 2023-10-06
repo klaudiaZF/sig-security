@@ -130,8 +130,6 @@ jobs:
           output: "trivy-results.sarif"
           vuln-type: "os,library"
 
-      - run: cat trivy-results.sarif
-
       - name: Upload Trivy scan results to GitHub Security tab
         uses: github/codeql-action/upload-sarif@v2
         with:
