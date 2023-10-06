@@ -1,12 +1,12 @@
 # Security Tooling
 
-These developer-friendly workflows ensure all security findings are directly visible in the GitHub Security tab, keeping everything within the familiar GitHub environment. While using these Actions is optional, their implementation is strongly recommended as they introduce a foundational level of security into the development process. This documentation will guide you through their benefits and setup.
+These developer-friendly workflows ensure all security findings are directly visible in the GitHub Security tab, keeping everything within the familiar GitHub environment. While using these actions is optional, their implementation is strongly recommended as they introduce a foundational level of security into the development process. This documentation will guide you through their benefits and setup.
 
 ## Emphasized Guidelines for Optimizing Security GitHub Actions
 
-Following the introduction of "Security Tooling" with GitHub Actions, here are specific guidelines and best practices for developers:
+Following, here are specific guidelines and best practices for developers:
 
-1. **Action Failures**: Actions should only fail if there is an error with the Action "Engine" itself or if there is a misconfiguration in the workflow. Failures should not occur based solely on high-severity findings.
+1. **Action Failures**: Actions should only fail if there is an error with the Action _"Engine"_ itself or if there is a misconfiguration in the workflow. Failures should not occur based solely on high-severity findings.
 
 2. **Manual Execution**: Include the on: workflow_dispatch option in all workflows. This allows you to manually trigger workflows whenever necessary.
 
@@ -20,11 +20,11 @@ Following the introduction of "Security Tooling" with GitHub Actions, here are s
 
 7. **Issue Reporting**: Should developers encounter issues during scanning or have questions regarding tool usage, they are encouraged to create an issue in our repository. An appropriate issue template has been provided to streamline this process.
 
-By adhering to these guidelines, developers can efficiently integrate GitHub Actions into their workflow, ensuring optimal security without compromising productivity.
+By adhering to these guidelines, developers can efficiently integrate GitHub actions into their workflow, ensuring optimal security without compromising productivity.
 
 ## Security Tool Workflows
 
-In the context of our emphasized guidelines for security tooling with GitHub Actions, we highly recommend the utilization of the following tools: **Trivy, KICS, CodeQL, Dependabot,** and **GitGuardian**. The subsequent sections will introduce and detail the usage of each of these tools.
+In the context of our emphasized guidelines for security tooling with GitHub actions, we highly recommend the utilization of the following tools: **Trivy, KICS, CodeQL, Dependabot,** and **GitGuardian**. The subsequent sections will introduce and detail the usage of each of these tools.
 
 ### GitGuardian
 
@@ -101,7 +101,7 @@ Trivy stands as our container vulnerability scanner of choice, ensuring the secu
 
 - The primary step involves the Trivy vulnerability scanner pulling the container image `tractusx/irs-api:latest` from Docker Hub. **Before scanning, it's essential to ensure that the desired image on Docker Hub is correctly configured for the scan.** We recommend always scanning the most recently published image to maintain updated security assessments. Utilizing the `aquasecurity/trivy-action@0.12.0`, the scanner inspects the image for vulnerabilities of types os and library. Results are formatted as SARIF and stored in `trivy-results.sarif`.
 
-- After the scan, results are outputted for immediate visibility using the cat command. The scan results are then uploaded to the GitHub Security tab via the `github/codeql-action/upload-sarif@v2` action, ensuring engineers can efficiently review and address any highlighted vulnerabilities.
+- After the scan, results are then uploaded to the GitHub Security tab via the `github/codeql-action/upload-sarif@v2` action, ensuring engineers can efficiently review and address any highlighted vulnerabilities.
 
 ```yml
 name: "Run Trivy scan and upload SARIF"
@@ -109,7 +109,7 @@ name: "Run Trivy scan and upload SARIF"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Once a day
 
 jobs:
   analyze:
