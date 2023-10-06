@@ -5,4 +5,10 @@ Further information can be found on the [README.md](README.md) file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [Unreleased]
+## [0.0.1] - 2023-10-06
+
+### Added
+
+- Initial boilerplate of the repo has been set up.
+- Contact options have been established.
+- Helpful issue templates have been created.
