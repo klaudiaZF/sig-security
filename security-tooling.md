@@ -26,6 +26,8 @@ By adhering to these guidelines, developers can efficiently integrate GitHub act
 
 In the context of our emphasized guidelines for security tooling with GitHub actions, we highly recommend the utilization of the following tools: **Trivy, KICS, CodeQL, Dependabot,** and **GitGuardian**. The subsequent sections will introduce and detail the usage of each of these tools.
 
+All of these tools are free for public GitHub repositories, and no key is required.
+
 ### GitGuardian
 
 GitGuardian is integrated via its GitHub App, enabling automated secret scanning of our codebase. Each pull request (PR) undergoes a scan. If a potential secret is detected, the commit's author receives an immediate email notification. This email contains a temporary link, allowing the author to either report the detected secret or mark it as a false positive, streamlining the review process for software engineers.
