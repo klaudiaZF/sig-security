@@ -265,3 +265,7 @@ updates:
     schedule:
       interval: "daily"
 ```
+
+Dependabot, while effective, is not without its limitations. In certain scenarios, it may inadequately assess some dependencies. To ensure a more comprehensive scan, other tools like the OWASP Dependency Scan or Google OSV Scanner can be considered. However, a point of caution: integrating these tools into your workflow can be more intricate compared to Dependabot.
+
+Our primary criterion is developer-friendliness, and given the complexity of integration, these tools aren't our top choices. A noteworthy advantage of the OWASP Dependency Scan is its ability to produce SARIF output, a feature not yet available in Google's OSV.
