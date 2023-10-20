@@ -1,6 +1,6 @@
 ## TL;DR for Security Assessments within Tractus-X
 
-1. Each Tractus-X project which undergoes a security assessment should have a `security-assessment.md` file stored in the documentation subfolder (`/docs`) of the repo.
+1. Each Tractus-X project which undergoes a security assessment must have a `security-assessment.md` file stored in the documentation subfolder (`/docs`) of the repo.
 Please create the file if it’s not already present.
 A template for this file can be found at [`security-assessment-template.md`](security-assessment-template.md).
 2. The file `security-assessment.md` should contain a Data Flow Diagram (DFD).
@@ -26,7 +26,7 @@ flowchart LR
   risk --> treatment("Risk treatment \n & \n threat mitigation")
 ```
 
-All information, including the DFD as well as all supporting information necessary for the security assessment, should be stored in a file called `security-assessment.md` in the documentation-subfolder of each repo that is assessed.
+All information, including the DFD as well as all supporting information necessary for the security assessment, must be stored in a file called `security-assessment.md` in the documentation-subfolder of each repo that is assessed.
 A template for this file can be found at [`security-assessment-template.md`](security-assessment-template.md).
 
 ## Data Flow Diagram (DFD)
@@ -108,7 +108,7 @@ Use the following elements:
 %% ----------------------
 %% .
 %% === OUT OF SCOPE ====
-%% mark out of scope elements with ":::oos", e.g., backendprocess:::oos
+%% mark out of scope elements with ":::oos", e.g., backend_process(("Backend")):::oos
 %% mark out of scope data flows as dotted links, e.g., A -. "text" .-> B
 %% .
 %% === MOVING STUFF AROUND ====
@@ -137,7 +137,7 @@ flowchart LR
   end
   process -- "Data" --> data_store
 
-  ext_interactor -- "Input" --> process
+  ext_interactor -- "Input:\nData (e.g., User Data)\nProtocol (e.g., HTTP)" --> process
   ext_interactor2 -. "Out of scope \n data flow" .-> ext_interactor
 
 %% ----------------------
@@ -182,7 +182,7 @@ See a working example at the end of the document.
 %% ----------------------
 %% .
 %% === OUT OF SCOPE ====
-%% mark out of scope elements with ":::oos", e.g., backendprocess:::oos
+%% mark out of scope elements with ":::oos", e.g., backend_process(("Backend")):::oos
 %% mark out of scope data flows as dotted links, e.g., A -. "text" .-> B
 %% .
 %% === MOVING STUFF AROUND ====
