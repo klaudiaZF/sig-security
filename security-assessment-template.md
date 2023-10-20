@@ -32,7 +32,7 @@ Primary controls implemented on product (or on specific aspect of product):
 %% ----------------------
 %% .
 %% === OUT OF SCOPE ====
-%% mark out of scope elements with ":::oos", e.g., backendprocess:::oos
+%% mark out of scope elements with ":::oos", e.g., backend_process(("Backend")):::oos
 %% mark out of scope data flows as dotted links, e.g., A -. "text" .-> B
 %% .
 %% === MOVING STUFF AROUND ====
@@ -61,7 +61,7 @@ flowchart
     process -- "Data" --> data_store
   end
 
-  ext_interactor -- "Input" --> process
+  ext_interactor -- "Input:\nData (e.g., User Data)\nProtocol (e.g., HTTP)" --> process
   ext_interactor2 -. "Out of scope \n data flow" .-> ext_interactor
 
 %% ----------------------
@@ -82,6 +82,9 @@ Key Information Needed for DFD:
 * Interactor
 * Target of Interaction
 * Interaction Description
+* Session Management (Token, Lifetime, Type, etc.)
+* Input Validation Controls
+* Availability Controls (e.g. rate limiting, pod resiliency, etc.)
 * Zone Type (cloud, container, etc.)
 * Access Rights available
 * Access Type 
