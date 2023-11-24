@@ -26,7 +26,7 @@ For certain security-related issues and pull requests, such as Security Code Rev
 
 ## Resources
 
-- **Security Tooling**: [Here]([LINK_TO_DOCUMENTATION](https://github.com/eclipse-tractusx/sig-security/blob/main/security-tooling.md))
+- [**Security Tooling**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-tooling.md)
 
 ## Reporting a Security Issue
 
