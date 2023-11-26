@@ -20,7 +20,11 @@ Following, here are specific guidelines and best practices for developers:
 
 7. **Issue Reporting**: Should developers encounter issues during scanning or have questions regarding tool usage, they are encouraged to create an issue in our repository. An appropriate issue template has been provided to streamline this process.
 
-By adhering to these guidelines, developers can efficiently integrate GitHub actions into their workflow, ensuring optimal security without compromising productivity.
+By adhering to these guidelines, developers can efficiently integrate GitHub actions into their workflow, ensuring optimal security without compromising productivity. 
+
+So this doesn't happen:
+
+![meme-security-tools](assets/meme-security-tools.jpeg)
 
 ## Security Tool Workflows
 
