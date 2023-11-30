@@ -76,7 +76,7 @@ linkStyle default stroke:#222,stroke-width:1px;
 %%{init:{'theme':'neutral', 'themeCSS':'#_hidden,#_hidden1,#_hidden2,#_hidden3{display:none;}.edge-pattern-dotted{stroke:#888!important;stroke-width:1px!important;stroke-dasharray: 6 5!important;}'}}%%
 ```
 
-Place for additional information on data flows and the data flow diagram.
+Place for additional information on data flows and the data flow diagram. The following list may be used as a guidance and should not be included into the final version of the assessment.
 
 Key Information Needed for DFD:
 * Interactor
@@ -95,5 +95,11 @@ Key Information Needed for DFD:
 * Credential Storage
 * Logging
 
+### Changes compared to last Security Assessment
+
+Mention date of last security assessment (if not already done in the header of the document) and changes to the architecture and security controls since the last assessment.
+
 ## Threats & Risks
-All identified threats and risks must be reported via **GitHub security advisories** using the *Security* tab in GitHub. See also SECURITY.md in the root of this repo.
+All identified, exploitable threats and risks must be reported via **GitHub security advisories** using the *Security* tab in GitHub. See also SECURITY.md in the root of this repo. Links to GitHub security advisories may be added to this document.
+
+Non-critical threats and findings may be submitted as issues, instead, and should be linked from this document.

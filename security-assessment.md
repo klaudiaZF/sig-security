@@ -1,19 +1,21 @@
+ℹ️ This document describes one specific method of performing security assessments based on data flow diagrams, STRIDE, and risk assessments. Other methods of assessing the security may be used, especially if a project team already has performed security assessment in the past.
+
 ## TL;DR for Security Assessments within Tractus-X
 
-1. Each Tractus-X project which undergoes a security assessment must have a `security-assessment.md` file stored in the documentation subfolder (`/docs`) of the repo.
-Please create the file if it’s not already present.
+1. Each Tractus-X project which undergoes a security assessment should have a `security-assessment.md` file stored in the documentation subfolder (`/docs`) of the repo.  
 A template for this file can be found at [`security-assessment-template.md`](security-assessment-template.md).
 2. The file `security-assessment.md` should contain a Data Flow Diagram (DFD).
-The following template may be used: [mermaid.js Template to use for DFD within Tractus-X](#mermaidjs-template-to-use-for-dfd-within-tractus-x)
-3. `security-assessment.md` should also contain a list of existing security controls that don’t pose a threat.
+If there is no existing diagram showing the architecture and/or data flows, the following template may be used: [mermaid.js Template to use for DFD within Tractus-X](#mermaidjs-template-to-use-for-dfd-within-tractus-x)
+3. `security-assessment.md` should contain a list of existing security controls.
 4. A [risk analysis](#risk-analysis) must be done.
 The risk analysis must not be documented publicly while any risks rated moderate or higher are present.
-5. Any identified threats and their corresponding risk level must be submitted as Security Advisories within the respective GitHub repo (Security tab).
-They must not be made public before a mitigation is in place.
+5. Any identified, exploitable threats and their corresponding risk level must be submitted as Security Advisories within the respective GitHub repository (Security tab).
+They must not be made public before a mitigation is in place.  
+Non-critical threats and findings may be submitted as issues, instead.
 
 ## Workflow
 
-The security assessment describes a detailed threat modeling process – based on STRIDE.
+The security assessment describes a detailed threat modeling process based on STRIDE.
 
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
