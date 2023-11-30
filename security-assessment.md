@@ -1,4 +1,8 @@
-ℹ️ This document describes one specific method of performing security assessments based on data flow diagrams, STRIDE, and risk assessments. Other methods of assessing the security may be used, especially if a project team already has performed security assessment in the past.
+:::note
+
+This document describes one specific method of performing security assessments based on data flow diagrams, STRIDE, and risk assessments. Other methods of assessing the security may be used, especially if a project team already has performed security assessment in the past.
+
+:::
 
 ## TL;DR for Security Assessments within Tractus-X
 
