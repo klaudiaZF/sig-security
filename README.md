@@ -4,8 +4,6 @@
 
 This is the Special Interest Group for Security (SIG-Security) within the Eclipse Tractus-X project. Our primary aim is to improve security and define best practices across the Tractus-X ecosystem.
 
-![meme-security-community](assets/meme-security-community.jpg)
-
 ## Objectives
 
 - Evaluate and improve security features in Tractus-X projects
