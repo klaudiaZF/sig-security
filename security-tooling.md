@@ -22,10 +22,6 @@ Following, here are specific guidelines and best practices for developers:
 
 By adhering to these guidelines, developers can efficiently integrate GitHub actions into their workflow, ensuring optimal security without compromising productivity. 
 
-So this doesn't happen:
-
-![meme-security-tools](assets/meme-security-tools.jpeg)
-
 ## Security Tool Workflows
 
 In the context of our emphasized guidelines for security tooling with GitHub actions, we highly recommend the utilization of the following tools: **Trivy, KICS, CodeQL, Dependabot,** and **GitGuardian**. The subsequent sections will introduce and detail the usage of each of these tools.
