@@ -225,8 +225,8 @@ jobs:
       # Autobuild attempts to build any compiled languages (C/C++, C#, Go, Java, or Swift).
       # If this step fails, then you should remove it and run the build manually (see below)
       - name: Autobuild
-        # Ensures that the step only runs for languages other than 'javascript' and 'python'
-        if: ${{ matrix.language != 'javascript' && matrix.language != 'python' }}
+        # Ensures that the step only runs for languages other than 'javascript', 'ruby' and 'python'
+        if: ${{ matrix.language != 'javascript' && matrix.language != 'ruby' && matrix.language != 'python' }}
         uses: github/codeql-action/autobuild@v2
 
       # ℹ️ Command-line programs to run using the OS shell.
