@@ -18,13 +18,13 @@ This guide, lays out a structured path for new members in Eclipse Tractus-X to c
 
 - Contribute to the development and integration of security tooling in the CI/CD process through PRs and participating in related discussions.
 
+## Engaging with Other SIGs
+
+- Regularly interact with SIGs for Infrastructure and Release to promote synergies and a holistic security perspective:
+
+  - [sig-infra](https://github.com/eclipse-tractusx/sig-infra)
+  - [sig-release](https://github.com/eclipse-tractusx/sig-release)
+ 
 ## Potential SIG-Security Meetings
 
 [Reserved for future dedicated SIG-Security meetings]
-
-## Engaging with Other SIGs
-
-- Regularly interact with SIGs for Infrastructure and Release to promote synergies and a holistic security perspective.
-
-
-
