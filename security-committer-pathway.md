@@ -14,7 +14,7 @@ This guide, lays out a structured path for new members in Eclipse Tractus-X to c
 
 ## Active Contributions
 
-- Answer security-related questions from developers that they bring to you via Teams Chat, email, or any other communication channel.
+- Answer security-related questions from developers that they bring to you via [Eclipse Matrix Space](https://matrix.to/#/#automotive.tractusx:matrix.eclipse.org), email, or any other communication channel.
 
 - Conduct security code reviews in Pull Requests (PRs), engaging in discussions to enhance security aspects.
 
