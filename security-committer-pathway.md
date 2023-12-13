@@ -26,7 +26,10 @@ This guide, lays out a structured path for new members in Eclipse Tractus-X to c
 
   - [sig-infra](https://github.com/eclipse-tractusx/sig-infra)
   - [sig-release](https://github.com/eclipse-tractusx/sig-release)
- 
+
+<!--
 ## Potential SIG-Security Meetings
 
 [Reserved for future dedicated SIG-Security meetings]
+-->
+
