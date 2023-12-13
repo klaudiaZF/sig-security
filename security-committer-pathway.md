@@ -35,3 +35,12 @@ This guide, lays out a structured path for new members in Eclipse Tractus-X to c
 [Reserved for future dedicated SIG-Security meetings]
 -->
 
+# Additional Responsibilities for Established Security Committers
+
+Once you become a Security Committer in Eclipse Tractus-X, your role will expand to include the following critical responsibilities:
+
+- Managing Security Advisories: Take charge of managing and responding to security advisories, ensuring timely and effective communication.
+
+- Publishing CVEs: Oversee the process of publishing Common Vulnerabilities and Exposures (CVEs) related to the project, ensuring accurate and prompt disclosure.
+
+- Monitoring GitHub Advanced Security Dashboard: Keep a close eye on the security findings reported in the GitHub Advanced Security Dashboard, which involves analyzing and addressing the identified security issues in collaboration with the dev teams.
