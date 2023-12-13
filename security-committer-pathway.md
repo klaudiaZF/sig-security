@@ -8,7 +8,7 @@ This guide, lays out a structured path for new members in Eclipse Tractus-X to c
 
 ## Community Integration
 
-- Sign up for the Eclipse Tractus-X mailing list to stay updated and share security updates.
+- Sign up for the [Eclipse Tractus-X mailing list](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute/#dev-mailinglist) to stay updated and share security updates.
 
 ## Active Contributions
 
