@@ -2,13 +2,15 @@
 
 This guide, lays out a structured path for new members in Eclipse Tractus-X to contribute meaningfully and progress towards becoming committers. It emphasizes active participation, engagement in security-related tasks, and collaboration across different Special Interest Groups (SIGs) to build a comprehensive understanding and impact in the project's security landscape.
 
+## Community Integration
+
+- Become familiar with our [community](https://eclipse-tractusx.github.io/docs/developer)
+
+- Sign up for the [Eclipse Tractus-X mailing list](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute/#dev-mailinglist) to stay updated and share security updates.
+
 ## Participating in the DevSecOps Hour
 
 - Actively join the weekly DevSecOps Hour meetings every Friday to share security insights and answer developers' security queries.
-
-## Community Integration
-
-- Sign up for the [Eclipse Tractus-X mailing list](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute/#dev-mailinglist) to stay updated and share security updates.
 
 ## Active Contributions
 
