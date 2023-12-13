@@ -4,7 +4,7 @@ This guide, lays out a structured path for new members in Eclipse Tractus-X to c
 
 ## Community Integration
 
-- Become familiar with our [community](https://eclipse-tractusx.github.io/docs/developer)
+- Become familiar with our [community](https://eclipse-tractusx.github.io/docs/developer) and [Eclipse Foundation Project Handbook](https://www.eclipse.org/projects/handbook/).
 
 - Sign up for the [Eclipse Tractus-X mailing list](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute/#dev-mailinglist) to stay updated and share security updates.
 
