@@ -1,6 +1,6 @@
 # Pathway for New Members to Become _Security_ Committers in Eclipse Tractus-X
 
-This guide, lays out a structured path for new members in Eclipse Tractus-X to contribute meaningfully and progress towards becoming committers. It emphasizes active participation, engagement in security-related tasks, and collaboration across different Special Interest Groups (SIGs) to build a comprehensive understanding and impact in the project's security landscape.
+This guide, lays out a structured path for new members in Eclipse Tractus-X to contribute meaningfully and progress towards becoming [committers](https://www.eclipse.org/projects/handbook/#roles-cm). It emphasizes active participation, engagement in security-related tasks, and collaboration across different Special Interest Groups (SIGs) to build a comprehensive understanding and impact in the project's security landscape.
 
 ## Community Integration
 
@@ -37,7 +37,7 @@ This guide, lays out a structured path for new members in Eclipse Tractus-X to c
 
 # Additional Responsibilities for Established Security Committers
 
-Once you become a Security Committer in Eclipse Tractus-X, your role will expand to include the following critical responsibilities:
+Once you successfully [pass through the election process](https://www.eclipse.org/projects/handbook/#elections-committer) and are chosen by the existing committers, your role as a Security Committer in Eclipse Tractus-X will expand to include the following critical responsibilities:
 
 - Managing Security Advisories: Take charge of managing and responding to security advisories, ensuring timely and effective communication.
 
