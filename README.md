@@ -19,10 +19,10 @@ For certain security-related issues and pull requests, such as Security Code Rev
 
 - **Mailing List**: [Subscribe](https://accounts.eclipse.org/mailing-list/tractusx-dev) to stay updated.
 - **Open Issues**: Check the `security` tag in the GitHub repository for ongoing discussions and tasks.
+- [**Pathway for Security Committers**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-committer-pathway.md)
 
 ## Resources
 
-- [**Pathway for Security Committers**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-committer-pathway.md)
 - [**Security Tooling**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-tooling.md)
 - [**Security Assessments**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-assessment.md)
 
