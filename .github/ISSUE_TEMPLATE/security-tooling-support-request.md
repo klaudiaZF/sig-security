@@ -3,7 +3,7 @@ name: Security Tooling Support Request
 about: Request support for issues related to security tools in your project
 title: "[Security Tooling] YOUR_ISSUE_TITLE_HERE"
 labels: 'security, tooling'
-assignees: 'scherersebastian'
+assignees: 'RoKrish14'
 
 ---
 
