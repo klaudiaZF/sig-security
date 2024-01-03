@@ -20,10 +20,6 @@ For certain security-related issues and pull requests, such as Security Code Rev
 - **Mailing List**: [Subscribe](https://accounts.eclipse.org/mailing-list/tractusx-dev) to stay updated.
 - **Open Issues**: Check the `security` tag in the GitHub repository for ongoing discussions and tasks.
 
-## Contacts
-
-- **Sebastian Scherer**: [@scherersebastian](https://github.com/scherersebastian)
-
 ## Resources
 
 - [**Security Tooling**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-tooling.md)
