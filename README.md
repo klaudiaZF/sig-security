@@ -22,7 +22,9 @@ For certain security-related issues and pull requests, such as Security Code Rev
 
 ## Resources
 
+- [**Pathway for Security Committers**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-committer-pathway.md)
 - [**Security Tooling**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-tooling.md)
+- [**Security Assessments**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-assessment.md)
 
 ## Reporting a Security Issue
 
