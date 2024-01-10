@@ -15,6 +15,19 @@ This is the Special Interest Group for Security (SIG-Security) within the Eclips
 
 For certain security-related issues and pull requests, such as Security Code Reviews, you may directly involve **@scherersebastian** by mentioning their handle in the issue or PR comments.
 
+## Contact
+
+| Assignment    | GitHub-Handle        |
+| ------------- |:-------------:|
+| Lead | @szafrugr |
+| Security Tools | @RoKrish14      |
+| Security Tools | @DnlZF      |
+| Security Tools, docs | @ZFLokesh |
+| Docs, Snyk, Assessments | @SSIRKC |
+| Security Tools | @PiotrStys |
+| Security Tools, docs | @Gitleena |
+| Security Tools, docs | @klaudiaZF |
+
 ## How to Get Involved
 
 - **Mailing List**: [Subscribe](https://accounts.eclipse.org/mailing-list/tractusx-dev) to stay updated.
