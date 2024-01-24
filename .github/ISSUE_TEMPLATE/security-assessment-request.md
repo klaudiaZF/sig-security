@@ -2,8 +2,8 @@
 name: Security Assessment Request
 about: Request a security assessment for Eclipse Tractus-X
 title: "[Security Assessment] SUBJECT_HERE"
-labels: ''
-assignees: SSIRKC
+labels: 'security, assessment'	labels: ''
+assignees: 'SSIRKC'
 
 ---
 
