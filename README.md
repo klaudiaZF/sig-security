@@ -13,7 +13,7 @@ This is the Special Interest Group for Security (SIG-Security) within the Eclips
 
 ## Direct Involvement for Specific Security Topics
 
-For certain security-related issues and pull requests, such as Security Code Reviews, you may directly involve **@scherersebastian** by mentioning their handle in the issue or PR comments.
+For certain security-related issues and pull requests, you may create new [Issues](https://github.com/eclipse-tractusx/sig-security/issues) and/or [Discussions](https://github.com/eclipse-tractusx/sig-security/discussions).
 
 ## How to Get Involved
 
