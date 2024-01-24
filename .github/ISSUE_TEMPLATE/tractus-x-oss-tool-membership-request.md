@@ -3,7 +3,8 @@ name: Tractus-X OSS Tool Membership Request
 about: Requesting access to one of our tools
 title: Requesting access to "[TOOL NAME] YOUR_REPOSITORY"
 labels: 'security, tool'
-assignees: 'SSIRKC'
+assignees: SSIRKC
+
 ---
 
 ## Tool Access
