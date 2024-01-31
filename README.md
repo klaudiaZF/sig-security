@@ -19,11 +19,11 @@ For certain security-related issues and pull requests, such as Security Code Rev
 
 | Assignment    | GitHub-Handle        |
 | ------------- |:-------------:|
-| Lead | @szafrugr |
+| Lead | @guenterban |
+| Security Tools, docs | @szafrugr |
 | Security Tools | @RoKrish14      |
 | Security Tools | @DnlZF      |
 | Security Tools, docs | @ZFLokesh |
-| Docs, Snyk, Assessments | @SSIRKC |
 | Security Tools | @PiotrStys |
 | Security Tools, docs | @Gitleena |
 | Security Tools, docs | @klaudiaZF |
