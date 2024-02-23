@@ -1,5 +1,5 @@
 ---
-name: 'Onboard a new member to join SIG-Secuirty '
+name: 'Onboard a new member to join SIG-Security '
 about: Adding new members to join sig-security team 
 title: 'GitHub: Onboard new member '
 labels: support
