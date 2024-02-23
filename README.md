@@ -15,29 +15,15 @@ This is the Special Interest Group for Security (SIG-Security) within the Eclips
 
 For certain security-related issues and pull requests, you may create new [Issues](https://github.com/eclipse-tractusx/sig-security/issues) and/or [Discussions](https://github.com/eclipse-tractusx/sig-security/discussions).
 
-## Contact
-
-| Assignment    | GitHub-Handle        |
-| ------------- |:-------------:|
-| Lead | @guenterban |
-| Security Tools, docs | @szafrugr |
-| Security Tools | @RoKrish14      |
-| Security Tools | @DnlZF      |
-| Security Tools, docs | @ZFLokesh |
-| Security Tools | @PiotrStys |
-| Security Tools, docs | @Gitleena |
-| Security Tools, docs | @klaudiaZF |
-
 ## How to Get Involved
 
-- **Mailing List**: [Subscribe](https://accounts.eclipse.org/mailing-list/tractusx-dev) to stay updated.
-- **Open Issues**: Check the `security` tag in the GitHub repository for ongoing discussions and tasks.
-- [**Pathway for Security Committers**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-committer-pathway.md)
+- **Join SIG-secruity**: [Onboarding](https://github.com/eclipse-tractusx/sig-security/blob/main/onboarding.md)
+- **Become a committer**: [Pathway for Security Committers](https://github.com/eclipse-tractusx/sig-security/blob/main/security-committer-pathway.md)
 
-## Resources
+## Security - Office Hour
 
-- [**Security Tooling**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-tooling.md)
-- [**Security Assessments**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-assessment.md)
+Every 2 weeks on Thursday effective 15. Feb 2024 until 31. Dec 2024 from 08:35 am to 09:30 am CET
+- [**Security Open meeting**](https://eclipse-tractusx.github.io/community/open-meetings/)
 
 ## Reporting a Security Issue
 
