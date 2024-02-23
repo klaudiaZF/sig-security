@@ -14,11 +14,9 @@ As you walk through this, please remember that it is a living checklist and may 
 - [ ] Create an Eclipse Foundation Account - [Sign Up](https://accounts.eclipse.org/user/register)
   - [ ] Follow the guidelines from [Tractus-X Eclipse Foundation Rules](https://eclipse-tractusx.github.io/docs/oss/getting-started)
   - [ ] Subscribe to Eclipse Foundation [mailing-list](https://accounts.eclipse.org/mailing-list/tractusx-dev)
-  - [ ] Create a new issue under sig-security to be added as member for legitimization.
-        Wait for the approval before proceding to next step.
+  - [ ] Create a new issue under sig-security to be added as member for legitimization and wait for the approval. <br>[Onboard a new member to join SIG-Security](https://github.com/eclipse-tractusx/sig-security/issues/new/choose).
   - [ ] Request any committer from SIG-security to add you to the Eclipse Tractus-X GitHub organisation as a contributor or use [GitHub Issue Template](https://github.com/eclipse-tractusx/sig-infra/issues/new?assignees=&labels=support&projects=&template=support-add-project-contributor.md&title=New+Tractus-X+project+contributor)
   - [ ] Accept the GitHub organisation invitation from the Eclipse Foundation.
-  - [ ] Create an issue to request for Security tooling [support](https://github.com/eclipse-tractusx/sig-security/issues/new/choose)
 - [ ] Add yourself to the [AUTHORS.md](AUTHORS.md)
 - [ ] Mark your calendar to attend open hour [meetings](https://eclipse-tractusx.github.io/community/open-meetings/)
 - [ ] Join the matrix chat [TractusX](https://app.element.io/#/room/#tractusx:matrix.eclipse.org)
