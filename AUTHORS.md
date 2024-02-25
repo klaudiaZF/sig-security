@@ -13,5 +13,3 @@ The following people have [contributed to this repository](https://github.com/ec
 * Pasenko, Pasenko, ZF Group AG, [@DnlZF](https://github.com/DnlZF)
 * Szafruga, Rafal, ZF Group AG, [@szafrugr](https://github.com/szafrugr)
 * Theissen, Pablo, Telekom Security, [@pablosec](https://github.com/pablosec)
-
-Please add yourself to this list, if you contribute to the content.
