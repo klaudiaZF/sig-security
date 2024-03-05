@@ -2,6 +2,7 @@
 
 The following people have [contributed to this repository](https://github.com/eclipse-tractusx/sig-security/graphs/contributors):
 
+* Scherer, Sebastian, Mercedes-Benz Tech Innovation GmbH, [@scherersebastian](https://github.com/scherersebastian)
 * Banholzer, Guenter, ZF Group AG, [@guenterban](https://github.com/guenterban)
 * Dilger, Daniel, Mercedes-Benz Tech Innovation GmbH, [@mm73628486283](https://github.com/mm73628486283/)
 * Gujre, Leena, ZF Group AG, [@Gitleena](https://github.com/Gitleena)
