@@ -20,3 +20,9 @@ assignees: 'szymonkowalczykzf'
 
 ### Timeline
 <!-- Desired deadline for this assessment -->
+
+### Time Slot
+<!-- Choose a time slot which fits best for you-->
+- [ ] Tuesday, 09:00-10:00
+- [ ] Thursday, 13:00-14:00
+- [ ] Individual, <!--insert your proposed date here-->
