@@ -17,7 +17,7 @@ For certain security-related issues and pull requests, you may create new [Issue
 
 ## How to Get Involved
 
-- **Join SIG-secruity**: [Onboarding](https://github.com/eclipse-tractusx/sig-security/blob/main/onboarding.md)
+- **Get onboarded**: [Getting started](https://eclipse-tractusx.github.io/docs/oss/getting-started/)
 - **Become a committer**: [Pathway for Security Committers](https://github.com/eclipse-tractusx/sig-security/blob/main/security-committer-pathway.md)
 
 ## Security - Office Hour
