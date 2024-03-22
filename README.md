@@ -24,6 +24,7 @@ For certain security-related issues and pull requests, you may create new [Issue
 
 Every 2 weeks on Thursday effective 15. Feb 2024 until 31. Dec 2024 from 08:35 am to 09:30 am CET
 - [**Security Open meeting**](https://eclipse-tractusx.github.io/community/open-meetings/)
+- [**Security Meeting Minutes**](https://eclipse-tractusx.github.io/community/meeting-minutes/)
 
 ## Reporting a Security Issue
 
