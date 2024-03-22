@@ -17,14 +17,14 @@ For certain security-related issues and pull requests, you may create new [Issue
 
 ## How to Get Involved
 
-- **Mailing List**: [Subscribe](https://accounts.eclipse.org/mailing-list/tractusx-dev) to stay updated.
-- **Open Issues**: Check the `security` tag in the GitHub repository for ongoing discussions and tasks.
-- [**Pathway for Security Committers**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-committer-pathway.md)
+- **Join SIG-secruity**: [Onboarding](https://github.com/eclipse-tractusx/sig-security/blob/main/onboarding.md)
+- **Become a committer**: [Pathway for Security Committers](https://github.com/eclipse-tractusx/sig-security/blob/main/security-committer-pathway.md)
 
-## Resources
+## Security - Office Hour
 
-- [**Security Tooling**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-tooling.md)
-- [**Security Assessments**](https://github.com/eclipse-tractusx/sig-security/blob/main/security-assessment.md)
+Every 2 weeks on Thursday effective 15. Feb 2024 until 31. Dec 2024 from 08:35 am to 09:30 am CET
+- [**Security Open meeting**](https://eclipse-tractusx.github.io/community/open-meetings/)
+- [**Security Meeting Minutes**](https://eclipse-tractusx.github.io/community/meeting-minutes/)
 
 ## Reporting a Security Issue
 
