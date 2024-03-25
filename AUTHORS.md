@@ -3,7 +3,7 @@
 The following people (in alphabetical order) have [contributed to this repository](https://github.com/eclipse-tractusx/sig-security/graphs/contributors):
 
 * Banholzer, Guenter, ZF Group, [@guenterban](https://github.com/guenterban)
-* Cicka, Kristian, Mercedes Benz Tech Innovation GmbH, [@SSIRKC] (https://github.com/SSIRKC) 
+* Cicka, Kristian, Mercedes Benz Group AG, [@SSIRKC] (https://github.com/SSIRKC) 
 * Dilger, Daniel, Mercedes-Benz Tech Innovation GmbH, [@mm73628486283](https://github.com/mm73628486283/)
 * Essenbries, Joachim, Robert Bosch GmbH [@Essenbreis](https://github.com/Essenbreis)
 * Gujre, Leena, ZF Group, [@Gitleena](https://github.com/Gitleena)
@@ -13,6 +13,6 @@ The following people (in alphabetical order) have [contributed to this repositor
 * Kowalczyk , Szymon, ZF Group, [@szymonkowalczykzf](https://github.com/szymonkowalczykzf)
 * Krishnamurthy, Rohan, ZF Group, [@RoKrish14](https://github.com/RoKrish14)
 * Pasenko, Pasenko, ZF Group, [@DnlZF](https://github.com/DnlZF)
-* Scherer, Sebastian,  Mercedes Benz Tech Innovation GmbH, [@scherersebastian](https://github.com/scherersebastian)
+* Scherer, Sebastian, [@scherersebastian](https://github.com/scherersebastian)
 * Szafruga, Rafal, ZF Group, [@szafrugr](https://github.com/szafrugr)
 * Theissen, Pablo, Telekom Security, [@pablosec](https://github.com/pablosec)
