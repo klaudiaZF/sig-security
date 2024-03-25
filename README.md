@@ -11,14 +11,25 @@ This is the Special Interest Group for Security (SIG-Security) within the Eclips
 - Provide a forum for discussing and resolving security-related issues
 - Provide security tooling for developers to enhance the security of their contributions
 
-## Direct Involvement for Specific Security Topics
-
-For certain security-related issues and pull requests, you may create new [Issues](https://github.com/eclipse-tractusx/sig-security/issues) and/or [Discussions](https://github.com/eclipse-tractusx/sig-security/discussions).
-
 ## How to Get Involved
 
 - **Get onboarded**: [Getting started](https://eclipse-tractusx.github.io/docs/oss/getting-started/)
 - **Become a committer**: [Pathway for Security Committers](https://github.com/eclipse-tractusx/sig-security/blob/main/security-committer-pathway.md)
+
+## Direct Involvement for Specific Security Topics
+
+### Discuss
+📣 If you want to share an idea to further enhance the project, please feel free to contribute to the [discussions](https://github.com/eclipse-tractusx/sig-security/discussions),
+otherwise [create a new discussion](https://github.com/eclipse-tractusx/sig-security/discussions/new/choose)
+
+### Create an Issue
+
+👀 If you have identified a bug or want to formulate a working item that you want to concentrate on, feel free to create a new issue at our project's corresponding [GitHub Issues page](https://github.com/eclipse-tractusx/sig-security/issues/new/choose)
+
+ ⁉️ Before doing so, please consider searching for potentially suitable [existing issues](https://github.com/eclipse-tractusx/sig-security/issues).
+
+🙋 **Assign to yourself** - Show others that you are working on this issue by assigning it to yourself.
+<br>To do so, click the cog wheel next to the Assignees section just to the right of this issue.
 
 ## Security - Office Hour
 
