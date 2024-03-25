@@ -13,10 +13,8 @@ assignees: 'RoKrish14'
 <!-- Please mark your tool with an [x]:** -->
 
 - [ ] KICS
-- [ ] Invicti / OWASP ZAP
 - [ ] GitGuardian
 - [ ] Trivy
-- [ ] Veracode (initial setup, GitHub integration)
 
 ### Issue Description
 <!-- Please describe the issue you're experiencing with the security tool. Provide as much detail as possible, including workflow run, any error messages, logs, steps to reproduce, or screenshots. -->
