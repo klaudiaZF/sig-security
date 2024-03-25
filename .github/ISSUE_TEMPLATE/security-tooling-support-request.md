@@ -12,6 +12,7 @@ assignees: 'RoKrish14'
 ### Tool
 <!-- Please mark your tool with an [x]:** -->
 
+- [ ] CodeQL
 - [ ] KICS
 - [ ] GitGuardian
 - [ ] Trivy
